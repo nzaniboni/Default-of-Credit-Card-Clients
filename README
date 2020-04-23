@@ -1,7 +1,7 @@
-> This project uses the Default of Credit Card Clients Dataset from Kaggle and UCI
+This project uses the Default of Credit Card Clients Dataset from Kaggle and UCI
 
-> The dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
-> https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
+The dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
+https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
 
-> The goal is predict default.payment.next.month: Default payment (1=yes, 0=no)
+The goal is predict default.payment.next.month: Default payment (1=yes, 0=no)
 
