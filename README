@@ -5,3 +5,4 @@ https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
 
 The goal is predict default.payment.next.month: Default payment (1=yes, 0=no)
 
+First we perform exploratory analysis, then cluster segmentation and, finally, logistic regression and decision tree for each cluster
